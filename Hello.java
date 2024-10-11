@@ -1,2 +1,3 @@
-bodijnrv
-verinbve
+class A{
+  print("helloo")
+}
